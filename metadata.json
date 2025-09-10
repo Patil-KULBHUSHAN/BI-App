@@ -1,0 +1,5 @@
+{
+  "name": "Sales Analytics Dashboard",
+  "description": "A Business Intelligence (BI) application to track and analyze e-commerce product performance. It processes product information, ratings, pricing, and discounts to generate actionable insights and visualizations.",
+  "requestFramePermissions": []
+}
